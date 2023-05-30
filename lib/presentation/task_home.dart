@@ -109,7 +109,7 @@ class _TaskHomeState extends State<TaskHome>
                       });
                     },
                     icon: const Icon(
-                      Icons.grid_view,
+                      Icons.list,
                     ))
                 : IconButton(
                     onPressed: () {
@@ -118,7 +118,7 @@ class _TaskHomeState extends State<TaskHome>
                       });
                     },
                     icon: const Icon(
-                      Icons.list,
+                      Icons.grid_view,
                     ))
           ],
           pinned: true,
