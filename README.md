@@ -3,7 +3,7 @@
 A simple todo app which uses inherited widget as a state management solution. I went through the Inherited Widget [codelab](https://github.com/sigmapie8/flutter_codelabs#how-to-manage-application-states-using-inherited-widgets--workshop-inherited-widget-workshop) for flutter and wanted to create an app to understand the material on my own.
 
 ## Screenshots
-![todo app result](./readme_resources/todo_app_inherited_widget.gif)
+![todo app result](./readme_resources/todo_app_inherited_widget.gif | width=100)
 
 ## Architecture
 
